@@ -1,9 +1,9 @@
-### Hi I'm Gabriel  👋
+### Hola mi Nombre es Gabriel  👋
 
 <!--
 **GaboEnr/GaboEnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-You can find me 🌎:
+Puedes encontrarme 🌎:
 
 🔗 - www.linkedin.com/in/gabriel-atencio-marriaga-67404074
  
